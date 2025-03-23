@@ -1,0 +1,7 @@
+Word Count Report
+Total Words: 4
+Top 5 Words:
+python - 1
+u - 1
+c:\users\user\documents\python - 1
+homework\lesson-6\homework\bonus_task1.py - 1
